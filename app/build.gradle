@@ -73,6 +73,7 @@ dependencies {
 
     // Navigation
     implementation "androidx.navigation:navigation-fragment-ktx:$version_navigation"
+    //noinspection GradleDependency
     implementation "androidx.navigation:navigation-ui-ktx:$version_navigation"
 
     // ViewModel and LiveData
